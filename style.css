@@ -78,6 +78,7 @@ nav > a{
 nav > a:hover{
     background-color: var(--cor1);
     color: var(--cor4);
+
 }
 
 
@@ -136,8 +137,10 @@ main a:hover {
 
 }
 
+
+
 div.video{
-    background-color: #D10404; /* tira margem entre o video e o h3 quero aprender mais */
+    background-color: red; /* tira margem entre o video e o h3 quero aprender mais */
     margin: 0px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 57%; /* posicionar o video no meio */
